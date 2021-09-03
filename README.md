@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <body>
-<h1 align="center"> 𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆𝕊 </h1>
-    
+<h1 align="center"> 🐞~ 𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆𝕊 ~🐞 </h1>
+   <img width="100%" src="https://cdn.akamai.steamstatic.com/steam/apps/1077860/extras/scanningGif.gif"/>
 <br>
 <div align="center">
-    <img src="https://i.imgur.com/jx17oHT.gif">
-    <p align="left">
-
-<p align="left">
+    <h1><p> 𝕄𝔼𝕌 𝕊ℂ𝕆ℝ𝔼𝔹𝕆𝔸ℝ𝔻 </p> </h1>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luiziwasaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luiziwasaki&theme=tokyonight" />
 </p>
@@ -16,7 +13,7 @@
 <br>
 <div>
     <h2 align="center"> 🦊 ~ 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞 ~ 🦊 </h2>
-    <img src="https://pa1.narvii.com/6362/fd165857f9321e5bb64675164c39445cc8a814c2_hq.gif" align="center-left" style="font-size: 10px">
+    <img width="50%" src="https://pa1.narvii.com/6362/fd165857f9321e5bb64675164c39445cc8a814c2_hq.gif" align="right" style="font-size: 10px">
     <li>
         <b>Nome:</b> Luiz Iwasaki</li>
     <li>
@@ -26,15 +23,24 @@
         <b>Hobbys:</b> Musica, Games, Estudos de Técnologia
     </li>
     <li>
-        <b>Projetos @:</b> Sistema de Banco em JAVA
+        <b>Projetos Atuais @:</b> Sistema de Banco em JAVA com SQL
     </li>
     <br>
-
+    
+  <p>
+        <b>Me chamo Luiz, Estou Cursando a Faculdade de Bacharelado em</b>
+        <b>Ciências Da Computação. Tenho 21 anos, moro no Brasil e tenho como Hobbie</b>
+      <b>Estudar Programação e suas técnologias, desde criança sempre fui apaixonado por essa área.</b>
+    </p>
+    <br>
 </div>
+    
+   <div>
+       
 <div>
-    <h2 align="left" style="font-size: 30px">                  ~ 📇 ℂ𝕠𝕟𝕙𝕖𝕔𝕚𝕞𝕖𝕟𝕥𝕠𝕤  📇 ~</h2>
+    <h2 align="center" style="font-size: 35px">                  ~ 📇 ℂ𝕠𝕟𝕙𝕖𝕔𝕚𝕞𝕖𝕟𝕥𝕠𝕤  📇 ~</h2>
     <p>
-        <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+        <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" align="right">
 </div>
 <div>
     <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>

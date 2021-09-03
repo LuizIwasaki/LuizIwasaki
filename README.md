@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <body>
 <h1 align="center"> 𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆𝕊 </h1>
+    
 <br>
 <div align="center">
     <img src="https://i.imgur.com/jx17oHT.gif">
+    <p align="left">
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luiziwasaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luiziwasaki&theme=tokyonight" />
+</p>
 </div>
+    
 <br>
 <div>
     <h2 align="center"> 🦊 ~ 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞 ~ 🦊 </h2>

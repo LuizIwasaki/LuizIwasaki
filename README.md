@@ -53,7 +53,8 @@
     <br>
     <p align="center">redes sociais >~< xoxox</p>
     <p align="center"><a href="https://twitter.com/ngc_weed" target="_blank"><img src="https://img.shields.io/badge/ngc_weed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a > <img src="https://img.shields.io/badge/20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-    <p align="center">  <a href="https://twitch.tv/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+    <p align="center"><a href="https://facebook.com/luiz.GGWP" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> </p>
+   https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 </div>
 <br>
 

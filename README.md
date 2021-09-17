@@ -30,7 +30,7 @@
   <p>
         <b>Me chamo Luiz, Estou Cursando a Faculdade de Bacharelado em</b>
         <b>Ciências Da Computação. Tenho 21 anos, moro no Brasil e tenho como Hobbie</b>
-      <b>Estudar Programação e suas técnologias, desde criança sempre fui apaixonado por essa área.</b>
+      <b>Estudar Programação e suas tecnologias, desde criança sempre fui apaixonado por essa área.</b>
     </p>
     <br>
 </div>
@@ -45,7 +45,7 @@
 <div>
     <p align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <br><br>
-        Tenho uma boa base de conhecimento nessas técnologias, tambem tento criar projeto
+        Tenho uma boa base de conhecimento nessas tecnologias, tambem tento criar projeto
        em outras linguagens e criar exploits. podem ver alguns desses projetos no meu repositório.
     </p>
     <br>

@@ -53,7 +53,7 @@
     <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
     <br>
     <p align="center">𝖗𝖊𝖉𝖊𝖘 𝖘𝖔𝖈𝖎𝖆𝖎𝖘 >< 🎃 </p>
-    <p align="center"><a href="https://twitter.com/ngc_weed" target="_blank"><img src="https://img.shields.io/badge/ngc_weed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a > <img src="https://img.shields.io/badge/stazz-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+    <p align="center"><a href="https://twitter.com/ngc_weed" target="_blank"><img src="https://img.shields.io/badge/ngc_weed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a > <img src="https://img.shields.io/badge/$.Darkstazz#0255-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
     <p align="center"><a href="https://facebook.com/luiz.GGWP" target="_blank"><img src="https://img.shields.io/badge/LuizIwasaki-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> </p>
 </div>
 <br>

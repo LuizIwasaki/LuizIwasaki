@@ -15,7 +15,7 @@
     <h2 align="center"> 🦊 ~ 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞 ~ 🦊 </h2>
     <img width="50%" src="https://pa1.narvii.com/6362/fd165857f9321e5bb64675164c39445cc8a814c2_hq.gif" align="right" style="font-size: 10px">
     <li>
-        <b>Nome:</b> Luiz Iwasaki</li>
+        <b>Nome:</b> Luiz Gustavo</li>
     <li>
         <b>Nacionalidade:</b> Brasileiro
     </li>

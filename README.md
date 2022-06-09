@@ -29,7 +29,7 @@
     
   <p>
         <b>Me chamo Luiz, Estou Cursando a Faculdade de Bacharelado em</b>
-        <b>Ciências Da Computação. Tenho 21 anos, moro no Brasil e tenho como Hobbie</b>
+        <b>Ciência Da Computação. Tenho 21 anos, moro no Brasil e tenho como Hobbie</b>
       <b>Estudar Programação e suas tecnologias, desde criança sempre fui apaixonado por essa área.</b>
     </p>
     <br>
@@ -51,7 +51,7 @@
     <br>
     <h2>                   📝 ~ 𝔽𝕒𝕝𝕖 ℂ𝕠𝕞𝕚𝕘𝕠 ~ 📝</h2>
     <br>
-    <p align="center">𝖗𝖊𝖉𝖊𝖘 𝖘𝖔𝖈𝖎𝖆𝖎𝖘 >< 🎃 </p>
+    <p align="center">𝓻𝓮𝓭𝓮𝓼 𝓼𝓸𝓬𝓲𝓪𝓲𝓼 >< </p>
     <p align="center"><a href="https://twitter.com/ngc_weed" target="_blank"><img src="https://img.shields.io/badge/ngc_weed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a > <img src="https://img.shields.io/badge/Darkstazz-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
     <p align="center"><a href="https://facebook.com/luiz.GGWP" target="_blank"><img src="https://img.shields.io/badge/LuizIwasaki-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> </p>
 </div>

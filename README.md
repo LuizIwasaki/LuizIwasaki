@@ -23,7 +23,8 @@
         <b>Hobbys:</b> Musica, Games, Estudos de Técnologia
     </li>
     <li>
-        <b>Projetos Atuais @:</b> Sistema de Banco em JAVA com SQL
+        <b>Projetos Atuais @:</b> Criando em Gerenciador de senhas Pessoais Completo
+                     em Electron
     </li>
     <br>
     

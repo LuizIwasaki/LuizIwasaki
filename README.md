@@ -30,7 +30,7 @@
     
   <p>
         <b>Me chamo Luiz, Estou Cursando a Faculdade de Bacharelado em</b>
-        <b>Ciência Da Computação. Tenho 21 anos, moro no Brasil e tenho como Hobbie</b>
+        <b>Ciência Da Computação. Tenho 22 anos, moro no Brasil e tenho como Hobbie</b>
       <b>Estudar Programação e suas tecnologias, desde criança sempre fui apaixonado por essa área.</b>
     </p>
     <br>

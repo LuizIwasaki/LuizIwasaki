@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-<h1 align="center"> 🐞~ 𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆𝕊 ~🐞 </h1>
+<h1 align="center">  𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆(𝔸) </h1>
    <img width="100%" src="https://cdn.akamai.steamstatic.com/steam/apps/1077860/extras/scanningGif.gif"/>
 <br>
 <div align="center">
@@ -12,7 +12,7 @@
     
 <br>
 <div>
-    <h2 align="center"> 🦊 ~ 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞 ~ 🦊 </h2>
+    <h2 align="center"> 📀 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞  📀 </h2>
     <img width="50%" src="https://pa1.narvii.com/6362/fd165857f9321e5bb64675164c39445cc8a814c2_hq.gif" align="right" style="font-size: 10px">
     <li>
         <b>Nome:</b> Luiz Gustavo</li>
@@ -24,7 +24,7 @@
     </li>
     <li>
         <b>Projetos Atuais @:</b> Criando em Gerenciador de senhas Pessoais Completo
-                     em Electron
+                     em electronjs, typescript e API REST
     </li>
     <br>
     
@@ -45,7 +45,8 @@
 </div>
 <div>
     <p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
-         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <br><br>
+         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <br>
+       <img src="https://img.icons8.com/fluency/344/typescript--v1.png"/> <br>
         Tenho uma boa base de conhecimento nessas tecnologias, tambem tento criar projeto
        em outras linguagens e criar exploits. podem ver alguns desses projetos no meu repositório.
     </p>

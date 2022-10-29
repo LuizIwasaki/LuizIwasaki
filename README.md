@@ -46,7 +46,7 @@
 <div>
     <p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <br>
-       <img src="https://img.icons8.com/fluency/344/typescript--v1.png"/> <br>
+       <img src="https://img.icons8.com/fluency/344/typescript--v1.png?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1Estyle=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
         Tenho uma boa base de conhecimento nessas tecnologias, tambem tento criar projeto
        em outras linguagens e criar exploits. podem ver alguns desses projetos no meu repositório.
     </p>

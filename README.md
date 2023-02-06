@@ -44,10 +44,16 @@
         <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" align="right">
 </div>
 <div>
-    <p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
-         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <br>
-       <img src="https://img.icons8.com/fluency/344/typescript--v1.png"  style="width:60px; height:50px;"/>
-       <img src="https://img.icons8.com/color/344/angularjs.png" style="width:60px; height:50px;"/> <br>
+    <p align="center">
+       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" style="width:60px; height:50px;" />  <!--html-->
+       <img src="https://img.icons8.com/fluency/344/css3--v1.png" style="width:60px; height:50px;"/>  <!--css-->
+       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="width:60px; height:50px;"/> <!--java-->
+       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:60px; height:50px;"/>  <br> <!--javascript-->
+       <img src="https://img.icons8.com/fluency/344/typescript--v1.png"  style="width:60px; height:50px;"/> <!--typescript-->
+       <img src="https://img.icons8.com/fluency/344/flutter--v1.png"  style="width:60px; height:50px;"/> <!--flutter-->
+       <img src="https://img.icons8.com/color/344/angularjs.png" style="width:60px; height:50px;"/>  <!--angular-->
+       <img src="https://www.electronjs.org/assets/img/logo.svg" style="width:60px; height:50px;"/>  <!--electronjs-->
+       <img src="https://img.icons8.com/fluency/344/mysql--v1.png" style="width:60px; height:50px;"/> <br> <!--mysql->
         Tenho uma boa base de conhecimento nessas tecnologias, tambem tento criar projeto
        em outras linguagens e criar exploits. podem ver alguns desses projetos no meu repositório.
     </p>

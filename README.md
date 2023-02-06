@@ -13,7 +13,7 @@
 <br>
 <div>
     <h2 align="center"> 📀 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞  📀 </h2>
-    <img width="50%" src="https://assets.pinterest.com/ext/embed.html?id=861876447441610999" align="right" style="font-size: 10px">
+    <iframe src="https://assets.pinterest.com/ext/embed.html?id=861876447441610999" height="438" width="600" frameborder="0" scrolling="no" ></iframe>
     <li>
         <b>Nome:</b> Luiz Gustavo</li>
     <li>

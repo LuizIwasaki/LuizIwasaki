@@ -13,7 +13,7 @@
 <br>
 <div>
     <h2 align="center"> 📀 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞  📀 </h2>
-    <img width="48%" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9520eakormzoa29ttkl58us2me0rgt6lfzapexoy4gr&rid=200w.gif&ct=g" />
+    <img width="15%" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9520eakormzoa29ttkl58us2me0rgt6lfzapexoy4gr&rid=200w.gif&ct=g" />
     <li>
         <b>Nome:</b> Luiz Gustavo</li>
     <li>

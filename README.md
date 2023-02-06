@@ -22,16 +22,18 @@
     <li>
         <b>Hobbys:</b> Musica, Games, Estudos de Técnologia
     </li>
-    <li>
-        <b>Projetos Atuais @:</b> Criando em Gerenciador de senhas Pessoais Completo
-                     em electronjs, typescript e API REST
-    </li>
+   <hr>
+
+   <h3 align="center"><b>Projetos Atuais</b></h3> <li>Criando um sistema de consultas júridicas</li> <br>
+   <li>Criando um app mobile de manipulação de widgets</li>
+
+   <hr>
     <br>
     
   <p>
-        <b>Me chamo Luiz, Estou Cursando a Faculdade de Bacharelado em</b>
-        <b>Ciência Da Computação. Tenho 22 anos, moro no Brasil e tenho como Hobbie</b>
-      <b>Estudar Programação e suas tecnologias, desde criança sempre fui apaixonado por essa área.</b>
+       <b>Me chamo Luiz, Estou Cursando a Faculdade de Bacharelado em
+        Ciência Da Computação.<b><br>Tenho 22 anos, moro no Brasil e gosto de</b>
+      <b>estudar Programação e suas tecnologias.<br><b> Desde criança sempre fui apaixonado por essa área.</b>
     </p>
     <br>
 </div>

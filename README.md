@@ -55,6 +55,7 @@
        <img src="https://img.icons8.com/fluency/344/flutter--v1.png"  style="width:60px; height:50px;"/> <!--flutter-->
        <img src="https://img.icons8.com/color/344/angularjs.png" style="width:60px; height:50px;"/>  <!--angular-->
        <img src="https://www.electronjs.org/assets/img/logo.svg" style="width:60px; height:50px;"/>  <!--electronjs-->
+       <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" style="width:60px; height:50px;"/>
        <img src="https://img.icons8.com/fluency/344/mysql--v1.png" style="width:60px; height:50px;"/> <br> <!--mysql->
         Tenho uma boa base de conhecimento nessas tecnologias, tambem tento criar projeto
        em outras linguagens e criar exploits. podem ver alguns desses projetos no meu repositório.

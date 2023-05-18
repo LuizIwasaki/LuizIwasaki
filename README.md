@@ -2,17 +2,10 @@
 <body>
 <h1 align="center">  𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆(𝔸) </h1>
    <img width="100%" src="https://cdn.akamai.steamstatic.com/steam/apps/1077860/extras/scanningGif.gif"/>
-<br>
-<div align="center">
-    <h1><p> 𝕄𝔼𝕌 𝕊ℂ𝕆ℝ𝔼𝔹𝕆𝔸ℝ𝔻 </p> </h1>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luiziwasaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luiziwasaki&theme=tokyonight" />
-</p>
-</div>
-    
+<br>   
 <br>
 <div>
-    <h2 align="center"> 📀 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞  📀 </h2>
+    <h2 align="center">  <b>Sobre mim</b>   </h2>
        <img width="21%" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9520eakormzoa29ttkl58us2me0rgt6lfzapexoy4gr&rid=200w.gif&ct=g" align="right"/>
 
    <li><b>Nome:</b> Luiz Gustavo</li>
@@ -20,22 +13,17 @@
         <b>Nacionalidade:</b> Brasileiro
     </li>
     <li>
-        <b>Hobbys:</b> Musica, Games, Estudos de Técnologia
+        <b>Hobbys:</b> Amo ler, ouvir música, e sou apaixonado por programar
     </li>
-   <hr>
-
-   <h3 align="center"><b>Projetos Atuais</b></h3> <li>Criando um sistema de consultas júridicas</li> <br>
-   <li>Criando um app mobile de manipulação de widgets</li>
-
-   <hr>
+   <li><b>Faculdade:</b> Cursando Ciência Da Computação.
+   <br>
+   <li><b>Idade:</b> 22 anos</li><br>
     <br>
-    
+   <h3 align="center"><b>Projetos Atuais</h3>
+   <li>Criando um app mobile de manipulação de widgets com flutter</li>
+    <br>
   <p>
-       <b>Me chamo Luiz, Estou Cursando a Faculdade de Bacharelado em
-        Ciência Da Computação.<b><br>Tenho 22 anos, moro no Brasil e gosto de</b>
-      <b>estudar Programação e suas tecnologias.<br><b> Desde criança sempre fui apaixonado por essa área.</b>
-    </p>
-    <br>
+     <hr>
 </div>
     
    <div>

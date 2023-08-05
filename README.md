@@ -1,60 +1,53 @@
-<!DOCTYPE html>
-<body>
-<h1 align="center">  𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆(𝔸) </h1>
-   <img width="100%" src="https://cdn.akamai.steamstatic.com/steam/apps/1077860/extras/scanningGif.gif"/>
-<br>   
-<br>
-<div>
-    <h2 align="center">  <b>Sobre mim</b>   </h2>
-       <img width="21%" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9520eakormzoa29ttkl58us2me0rgt6lfzapexoy4gr&rid=200w.gif&ct=g" align="right"/>
+<h1 align="center" color="228B22" rel="stylesheet">HELLO, WELCOME TO MY COFFE CORNER☕</h1>
 
-   <li><b>Nome:</b> Luiz Gustavo</li>
-    <li>
-        <b>Nacionalidade:</b> Brasileiro
-    </li>
-    <li>
-        <b>Hobbys:</b> Amo ler, ouvir música, e sou apaixonado por programar
-    </li>
-   <li><b>Faculdade:</b> Cursando Ciência Da Computação.
-   <br>
-   <li><b>Idade:</b> 22 anos</li><br>
-    <br>
-   <h3 align="center"><b>Projetos Atuais</h3>
-   <li>Criando um app mobile de manipulação de widgets com flutter</li>
-    <br>
-  <p>
-     <hr>
-</div>
-    
-   <div>
-       
-<div>
-    <h2 align="center" style="font-size: 35px">                  ~ 📇 ℂ𝕠𝕟𝕙𝕖𝕔𝕚𝕞𝕖𝕟𝕥𝕠𝕤  📇 ~</h2>
-    <p>
-        <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" align="right">
-</div>
-<div>
-    <p align="center">
-       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" style="width:60px; height:50px;" />  <!--html-->
-       <img src="https://img.icons8.com/fluency/344/css3--v1.png" style="width:60px; height:50px;"/>  <!--css-->
-       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="width:60px; height:50px;"/> <!--java-->
-       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:60px; height:50px;"/>  <br> <!--javascript-->
-       <img src="https://img.icons8.com/fluency/344/typescript--v1.png"  style="width:60px; height:50px;"/> <!--typescript-->
-       <img src="https://img.icons8.com/fluency/344/flutter--v1.png"  style="width:60px; height:50px;"/> <!--flutter-->
-       <img src="https://img.icons8.com/color/344/angularjs.png" style="width:60px; height:50px;"/>  <!--angular-->
-       <img src="https://www.electronjs.org/assets/img/logo.svg" style="width:60px; height:50px;"/>  <!--electronjs-->
-       <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" style="width:60px; height:50px;"/>
-       <img src="https://img.icons8.com/fluency/344/mysql--v1.png" style="width:60px; height:50px;"/> <br> <!--mysql->
-        Tenho uma boa base de conhecimento nessas tecnologias, tambem tento criar projeto
-       em outras linguagens e criar exploits. podem ver alguns desses projetos no meu repositório.
-    </p>
-    <br>
-    <h2>                   📝 ~ 𝔽𝕒𝕝𝕖 ℂ𝕠𝕞𝕚𝕘𝕠 ~ 📝</h2>
-    <br>
-    <p align="center">𝓻𝓮𝓭𝓮𝓼 𝓼𝓸𝓬𝓲𝓪𝓲𝓼 >< </p>
-    <p align="center"><a href="https://twitter.com/ngc_weed" target="_blank"><img src="https://img.shields.io/badge/ngc_weed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a > <img src="https://img.shields.io/badge/Darkstazz-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-    <p align="center"><a href="https://facebook.com/luiz.GGWP" target="_blank"><img src="https://img.shields.io/badge/LuizIwasaki-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> </p>
-</div>
-<br>
 
-</body>
+
+👩‍💻 Developer Full-stack
+
+   
+🎓 Computer Science
+
+⚜ Years of programming experience
+<h2 align="center" textAlign="top">LUIZ GUSTAVO</h2>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap" rel="stylesheet">
+ <div align="center"> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiziwasaki&layout=compact&hide_border=true&title_color=1E90FF&text_color=00BFFF&bg_color=0d1117" />
+
+
+ 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiziwasaki&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Gustavo github stats" />
+  </div>
+
+<div align="center"> 
+<a href="https://instagram.com/luiz_iwasaki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9932CC?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "contato.luizep@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luiz-gustavo-8b99b5186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+<div>
+   
+</div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; <br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+### Studying in this moment:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luiziwasaki&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+

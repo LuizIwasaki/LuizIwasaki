@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+COFFEE+CORNER☕;I+have+22+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+<h1 align="center">HELLO, WELCOME TO MY COFFEE CORNER☕</h1>
 
 <div></div>
 

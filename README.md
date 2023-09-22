@@ -7,7 +7,7 @@
    
 🎓 Computer Science
 
-⚜ Years of programming experience
+⚜ Adventurous programmer 🦾
 <h2 align="center" textAlign="top">LUIZ GUSTAVO</h2>
 
 

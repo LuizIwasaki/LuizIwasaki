@@ -90,7 +90,3 @@ Pesquisa e desenvolvimento de uma aplicação mobile inovadora integrando **Real
 </div>
 
 <br/>
-
-<div align="center">
-  <p><i>"A simplicidade é o último grau de sofisticação."</i></p>
-</div>

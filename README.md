@@ -1,4 +1,6 @@
-<br/>
+<p align="center">
+  <strong>Software Engineer</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-gustavo-8w/">
@@ -14,49 +16,102 @@
 
 ---
 
-## 👨‍💻 Sobre Mim / About Me
+## 🏨 Hotellus — Hotel Management SaaS
 
-- 🏗️ **Foco Atual:** Arquitetura de Software, Clean Code, Testes Automatizados e metodologias ágeis (Scrum).
-- 💻 **Especialidades:** `Node.js`, `TypeScript`, `React`, `Angular` e ecossistema mobile com `Ionic`.
-- 🎓 **Pesquisa:** Tenho experiência em Iniciação Científica desenvolvendo aplicações mobile inovadoras com **Realidade Aumentada (AR)**.
-- 🤝 **Colaboração:** Acredito no poder do trabalho em equipe, aprendizado contínuo e na entrega de software de alto valor.
+<table>
+  <tr>
+    <td width="100%">
+      <br/>
+      <p>
+        I'm the <strong>co-founder and sole developer</strong> of <strong>Hotellus</strong>, a multi-tenant SaaS platform for hotel management built for the Brazilian market — from check-in to checkout, reservations to financial folios.
+      </p>
+      <p>
+        I designed and built the entire platform from scratch: multi-tenant architecture with database-per-tenant isolation, a dynamic pricing engine based on season and day of the week, granular role-based access control (RBAC), forensic activity auditing, real-time broadcasting, and a modern, responsive interface.
+      </p>
+      <h4>Hotellus Tech Stack</h4>
+      <table>
+        <tr>
+          <td>⚙️ <strong>Backend</strong></td>
+          <td>PHP 8.2 · Laravel 12 · Inertia.js · Spatie Permission & Activitylog</td>
+        </tr>
+        <tr>
+          <td>🌐 <strong>Frontend</strong></td>
+          <td>React 19 · TypeScript 5 · Tailwind CSS 4 · shadcn/ui · Radix UI · Recharts</td>
+        </tr>
+        <tr>
+          <td>🗄️ <strong>Data</strong></td>
+          <td>PostgreSQL · Database-per-tenant architecture</td>
+        </tr>
+        <tr>
+          <td>🔧 <strong>Infra & DX</strong></td>
+          <td>Docker · Vite 7 · Pest PHP · Vitest · Laravel Reverb (WebSockets)</td>
+        </tr>
+        <tr>
+          <td>🔐 <strong>Security</strong></td>
+          <td>Granular RBAC · Progressive rate limiting · Account lockout · Forensic auditing</td>
+        </tr>
+      </table>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas / Tech Stack
+## 👨‍💻 About Me
+
+- 🚀 **Current Focus:** Architecting and building Hotellus — from zero to production, single-handedly.
+- 🏗️ **Principles:** Clean Architecture, Automated Testing, Domain-Driven Design, and code that tells its own story.
+- 💻 **Expertise:** `PHP/Laravel`, `React/TypeScript`, `Node.js`, `PostgreSQL`, and multi-tenant architectures.
+- 🎓 **Research:** Undergraduate research experience building mobile applications with **Augmented Reality (AR)** for interior design.
+- 🤝 **Philosophy:** I believe great software respects its domain, its users, and the next developer who will read the code.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <p>As ferramentas que compõem meu ecossistema de desenvolvimento:</p>
+  <p>The tools that power my development workflow:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,angular,java,mysql,postgres,docker,linux,git,github,postman,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,tailwind,nodejs,express,postgres,mysql,docker,linux,git,github,vite,figma&perline=8" />
   </a>
 </div>
 
 <br/>
 
-| Domínio | Principais Tecnologias |
+| Domain | Key Technologies |
 | :--- | :--- |
-| 🌐 **Frontend** | React, Angular, TypeScript, HTML5, CSS3 |
-| ⚙️ **Backend** | Node.js, Express.js, Java, APIs REST, JWT, Testes de Integração |
-| 📱 **Mobile** | Ionic, Desenvolvimento focado em Realidade Aumentada (AR) |
-| 🗄️ **Database** | MySQL, PostgreSQL |
-| 🚀 **DevOps & Tools** | Docker, Git, GitHub, Linux, Jupyter Notebook |
+| ⚙️ **Backend** | PHP, Laravel, Node.js, Express.js, REST APIs, Inertia.js |
+| 🌐 **Frontend** | React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Angular |
+| 📱 **Mobile** | Ionic, Augmented Reality (AR) Development |
+| 🗄️ **Database** | PostgreSQL, MySQL |
+| 🔐 **Security** | RBAC (Spatie Permission), Rate Limiting, Auditing (Spatie Activitylog) |
+| 🚀 **DevOps & DX** | Docker, Git, GitHub, Vite, Pest PHP, Vitest, Laravel Reverb |
 
 ---
 
-## 💼 Experiência em Destaque / Featured Experience
+## 💼 Featured Experience
 
-### 🚀 Fábrica de Software Acadêmica (IFSP)
-Atuação como Desenvolvedor de Software em projetos de alto impacto, simulando desafios reais da indústria de tecnologia e operando com metodologias ágeis (Scrum):
-- **Sistema de Gestão Nutricional (SGN):** Automação do controle alimentar no ensino médio. Criação de backend robusto em `Node.js` + `TypeScript`, frontend interativo em `React` e modelagem de dados em `MySQL`.
-- **Plataforma PEPVAGAS:** Desenvolvimento de um portal web e mobile completo para divulgação de vagas de emprego. Arquitetura de micro-serviços simulada com APIs REST em `Node.js`, interfaces frontend/mobile em `Angular` e `Ionic`, implementando autenticação segura via `JWT`.
+### 🏨 Hotellus — Co-Founder & Sole Developer
+A full-fledged multi-tenant SaaS platform for hotel management in Brazil. Responsible for 100% of the codebase — backend, frontend, infrastructure, testing, and security. Highlights:
+- **Multi-tenant architecture** with dedicated database isolation (database-per-tenant).
+- **Dynamic pricing engine** with rates varying by season, day of the week, and room type.
+- **Financial folio system** with consumption charges, payments, and detailed statements.
+- **Forensic auditing** of every system action with full traceability.
+- **Real-time dashboard** powered by WebSocket broadcasting (Laravel Reverb).
+- **Granular RBAC** with role- and permission-based access policies.
 
-### 📱 Iniciação Científica - Mobile & Realidade Aumentada
-Pesquisa e desenvolvimento de uma aplicação mobile inovadora integrando **Realidade Aumentada (AR)**, voltada especificamente para auxiliar designers de interiores na prototipação e visualização de ambientes virtuais em espaços reais.
+### 🚀 Academic Software Factory (IFSP)
+Software Developer on high-impact projects using Agile methodologies (Scrum):
+- **Nutritional Management System (SGN):** Robust backend in `Node.js` + `TypeScript`, interactive frontend in `React`, data modeling in `MySQL`.
+- **PEPVAGAS Platform:** Full web and mobile job listing portal. REST APIs in `Node.js`, frontend/mobile interfaces in `Angular` + `Ionic`, secure authentication via `JWT`.
+
+### 📱 Undergraduate Research — Mobile & Augmented Reality
+Research and development of an innovative mobile application integrating **Augmented Reality (AR)**, specifically designed to help interior designers prototype and visualize virtual environments within real-world spaces.
 
 ---
 
-## 📊 Analytics & Atividade / GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizIwasaki&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="48%" />
@@ -71,7 +126,7 @@ Pesquisa e desenvolvimento de uma aplicação mobile inovadora integrando **Real
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuizIwasaki&color=8B5CF6&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LuizIwasaki&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <br/>

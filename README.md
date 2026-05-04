@@ -26,10 +26,6 @@
 
 ## 👨‍💻 Sobre Mim / About Me
 
-Sou um **Engenheiro de Software e Desenvolvedor Full-Stack** apaixonado por tecnologia, arquitetura de sistemas e por transformar ideias complexas em soluções elegantes e escaláveis. Atualmente, curso **Ciência da Computação no Instituto Federal de São Paulo (IFSP)**.
-
-Minha trajetória é focada na construção de aplicações de ponta a ponta, desde a modelagem de bancos de dados relacionais e criação de APIs REST robustas até o desenvolvimento de interfaces web e mobile interativas.
-
 - 🏗️ **Foco Atual:** Arquitetura de Software, Clean Code, Testes Automatizados e metodologias ágeis (Scrum).
 - 💻 **Especialidades:** `Node.js`, `TypeScript`, `React`, `Angular` e ecossistema mobile com `Ionic`.
 - 🎓 **Pesquisa:** Tenho experiência em Iniciação Científica desenvolvendo aplicações mobile inovadoras com **Realidade Aumentada (AR)**.
@@ -42,7 +38,7 @@ Minha trajetória é focada na construção de aplicações de ponta a ponta, de
 <div align="center">
   <p>As ferramentas que compõem meu ecossistema de desenvolvimento:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,angular,ionic,java,mysql,postgres,docker,linux,git,github,postman,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,angular,java,mysql,postgres,docker,linux,git,github,postman,figma&perline=8" />
   </a>
 </div>
 

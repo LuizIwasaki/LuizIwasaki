@@ -69,7 +69,6 @@ Pesquisa e desenvolvimento de uma aplicação mobile inovadora integrando **Real
 ## 📊 Analytics & Atividade / GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizIwasaki&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizIwasaki&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 

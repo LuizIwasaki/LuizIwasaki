@@ -16,7 +16,7 @@
 
 ---
 
-## 🏨 Hotellus — Hotel Management SaaS
+## 🏨 Hotellus
 
 <table>
   <tr>
@@ -28,29 +28,6 @@
       <p>
         I designed and built the entire platform from scratch: multi-tenant architecture with database-per-tenant isolation, a dynamic pricing engine based on season and day of the week, granular role-based access control (RBAC), forensic activity auditing, real-time broadcasting, and a modern, responsive interface.
       </p>
-      <h4>Hotellus Tech Stack</h4>
-      <table>
-        <tr>
-          <td>⚙️ <strong>Backend</strong></td>
-          <td>PHP 8.2 · Laravel 12 · Inertia.js · Spatie Permission & Activitylog</td>
-        </tr>
-        <tr>
-          <td>🌐 <strong>Frontend</strong></td>
-          <td>React 19 · TypeScript 5 · Tailwind CSS 4 · shadcn/ui · Radix UI · Recharts</td>
-        </tr>
-        <tr>
-          <td>🗄️ <strong>Data</strong></td>
-          <td>PostgreSQL · Database-per-tenant architecture</td>
-        </tr>
-        <tr>
-          <td>🔧 <strong>Infra & DX</strong></td>
-          <td>Docker · Vite 7 · Pest PHP · Vitest · Laravel Reverb (WebSockets)</td>
-        </tr>
-        <tr>
-          <td>🔐 <strong>Security</strong></td>
-          <td>Granular RBAC · Progressive rate limiting · Account lockout · Forensic auditing</td>
-        </tr>
-      </table>
       <br/>
     </td>
   </tr>

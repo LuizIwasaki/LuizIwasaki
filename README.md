@@ -41,7 +41,6 @@
 - 🏗️ **Principles:** Clean Architecture, Automated Testing, Domain-Driven Design, and code that tells its own story.
 - 💻 **Expertise:** `PHP/Laravel`, `React/TypeScript`, `Node.js`, `PostgreSQL`, and multi-tenant architectures.
 - 🎓 **Research:** Undergraduate research experience building mobile applications with **Augmented Reality (AR)** for interior design.
-- 🤝 **Philosophy:** I believe great software respects its domain, its users, and the next developer who will read the code.
 
 ---
 
@@ -85,25 +84,3 @@ Software Developer on high-impact projects using Agile methodologies (Scrum):
 
 ### 📱 Undergraduate Research — Mobile & Augmented Reality
 Research and development of an innovative mobile application integrating **Augmented Reality (AR)**, specifically designed to help interior designers prototype and visualize virtual environments within real-world spaces.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizIwasaki&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizIwasaki&theme=onedark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuizIwasaki&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<br/>

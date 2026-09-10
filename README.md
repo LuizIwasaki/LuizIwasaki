@@ -23,7 +23,7 @@
     <td width="100%">
       <br/>
       <p>
-        I'm the <strong>co-founder and sole developer</strong> of <strong>Hotellus</strong>, a multi-tenant SaaS platform for hotel management built for the Brazilian market — from check-in to checkout, reservations to financial folios.
+        I'm the <strong>co-founder and sole developer</strong> of <strong>Quartto</strong>, a multi-tenant SaaS platform for hotel management built for the Brazilian market — from check-in to checkout, reservations to financial folios.
       </p>
       <p>
         I designed and built the entire platform from scratch: multi-tenant architecture with database-per-tenant isolation, a dynamic pricing engine based on season and day of the week, granular role-based access control (RBAC), forensic activity auditing, real-time broadcasting, and a modern, responsive interface.
@@ -37,7 +37,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Current Focus:** Architecting and building Hotellus — from zero to production, single-handedly.
+- 🚀 **Current Focus:** Architecting and building Quartto — from zero to production, single-handedly.
 - 🏗️ **Principles:** Clean Architecture, Automated Testing, Domain-Driven Design, and code that tells its own story.
 - 💻 **Expertise:** `PHP/Laravel`, `React/TypeScript`, `Node.js`, `PostgreSQL`, and multi-tenant architectures.
 - 🎓 **Research:** Undergraduate research experience building mobile applications with **Augmented Reality (AR)** for interior design.

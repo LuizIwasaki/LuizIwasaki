@@ -68,7 +68,7 @@
 
 ## 💼 Featured Experience
 
-### 🏨 Quartto — Co-Founder & Sole Developer
+### 🏨 Quartto — Founder & Sole Developer
 A full-fledged multi-tenant SaaS platform for hotel management in Brazil. Responsible for 100% of the codebase — backend, frontend, infrastructure, testing, and security. Highlights:
 - **Multi-tenant architecture** with dedicated database isolation (database-per-tenant).
 - **Dynamic pricing engine** with rates varying by season, day of the week, and room type.

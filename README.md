@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Software Engineer</strong>
+  <strong>Software Engineer | Full stack</strong>
 </p>
 
 <p align="center">

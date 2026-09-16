@@ -60,7 +60,7 @@
 | ⚙️ **Backend** | PHP, Laravel, Node.js, Express.js, REST APIs, Inertia.js |
 | 🌐 **Frontend** | React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Angular |
 | 📱 **Mobile** | Ionic, Augmented Reality (AR) Development |
-| 🗄️ **Database** | PostgreSQL, MySQL |
+| 🗄️ **Database** | MySQL |
 | 🔐 **Security** | RBAC (Spatie Permission), Rate Limiting, Auditing (Spatie Activitylog) |
 | 🚀 **DevOps & DX** | Docker, Git, GitHub, Vite, Pest PHP, Vitest, Laravel Reverb |
 

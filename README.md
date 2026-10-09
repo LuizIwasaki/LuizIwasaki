@@ -23,7 +23,7 @@
     <td width="100%">
       <br/>
       <p>
-        I'm the <strong>founder and sole developer</strong> of <strong>Quartto</strong>, a multi-tenant SaaS platform for hotel management built for the Brazilian market — from check-in to checkout, reservations to financial folios.
+        I'm <strong>founder and sole developer</strong> of <strong>Quartto</strong>, a multi-tenant SaaS platform for hotel management built for the Brazilian market — from check-in to checkout, reservations to financial folios.
       </p>
       <p>
         I designed and built the entire platform from scratch: multi-tenant architecture with database-per-tenant isolation, a dynamic pricing engine based on season and day of the week, granular role-based access control (RBAC), forensic activity auditing, real-time broadcasting, and a modern, responsive interface.
